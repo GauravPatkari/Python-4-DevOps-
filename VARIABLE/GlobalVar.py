@@ -43,7 +43,7 @@ def with_global_function():
     print("Inside the Function - ", with_glo_keyword)
 
 with_global_function()
-print("Outside the Function - ", with_glo_keyword)
+print("Outside the Function for printing - ", with_glo_keyword)
 
 
 
